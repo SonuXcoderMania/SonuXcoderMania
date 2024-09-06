@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonuxcodemania&label=Profile%20views&color=0e75b6&style=flat" alt="sonuxcodemania" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonuxcodemania" alt="sonuxcodemania" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonuxcodemania" alt="SonuXcodeMania" /></a> </p>
 
 - 📫 How to reach me **sonuyaduvanshi556@gmail.com**
 
