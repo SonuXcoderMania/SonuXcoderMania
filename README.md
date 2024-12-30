@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/3167026abe932fe28cb61a7308549da706bc1a8ee81a3cc3169ea75991d2e3d5/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966"/>
-<h1 align="center">Hi 👋, I'm Sonu Kumar Yadav</h1>
-<h3 align="center">A passionate frontend developer from Bharuch, India</h3>
+<h1 align="center">HI 👋, I AM  SONU KUMAR YADAV</h1>
+<h3 align="center">" SKILLED IN DATA ANALYSIS AND WEB DEVELOPMENT, I THRIVE ON TURNING COMPLEX DATA INTO MEANINGFUL STORIES AND CREATING SEAMLESS USER EXPERIENCES."</h3>
 <img align="right" alt="Coding" width="400" src="https://lms.nielit.gov.in/pluginfile.php/7190/course/overviewfiles/data-science-2.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonuxcodermania&label=Profile%20views&color=0e75b6&style=flat" alt="sonuxcodermania" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Analysis and Visualization**
 
-- 📫 How to reach me **sonukumar590598@gmail.com**
+- 📫 How to reach me **sonuyaduvanshi5560@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
